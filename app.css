@@ -1,0 +1,14 @@
+
+body { background-color: black; display:block;}
+/* end of main body styling. Beggining of EVENTS styling */
+#table {margin-top:3em;}
+#hot {margin-top:2em;color:white; margin-left:6.5em;}
+/* end of EVENTS styling. Beggining of Dj's styling*/
+#djsbio {color:white; margin-top:6em; margin-right:8em; text-align:center;}
+/* end of DJ's styling. Beggining of Downloads styling */
+#downloads { color:white; margin-left:16em;margin-top:6em;}
+.virtualdjpic {float:bottom; margin-bottom: 1em;}
+#firstlink{width:15%}
+.flstudiopic{float:bottom; margin-bottom: 1em}
+#secondlink {width:15%}
+/*end of Downloads styling*/
